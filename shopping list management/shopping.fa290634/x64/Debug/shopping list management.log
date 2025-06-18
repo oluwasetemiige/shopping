@@ -1,0 +1,3 @@
+﻿  shopping list managementcpp.cpp
+C:\Users\DELL\source\repos\shopping list management\shopping list managementcpp.cpp(1220,5): warning C4102: 'std': unreferenced label
+  shopping list management.vcxproj -> C:\Users\DELL\source\repos\shopping list management\x64\Debug\shopping list management.exe
